@@ -1,0 +1,2 @@
+*.js,*.css,*.png,*.jpeg,*.jpg,*.html,*.ico,*.json,*.svg,*.pack filter=lfs diff=lfs merge=lfs -text
+*.pack filter=lfs diff=lfs merge=lfs -text
